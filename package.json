@@ -1,0 +1,25 @@
+{
+  "name": "study-neon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kurosawa-kuro/study-neon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kurosawa-kuro/study-neon/issues"
+  },
+  "homepage": "https://github.com/kurosawa-kuro/study-neon#readme",
+  "dependencies": {
+    "dotenv": "^17.0.0",
+    "pg": "^8.16.3"
+  }
+}
